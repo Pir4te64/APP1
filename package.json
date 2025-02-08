@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "app1": "file:",
     "expo": "~52.0.31",
     "expo-router": "^4.0.17",
     "expo-status-bar": "~2.0.1",
